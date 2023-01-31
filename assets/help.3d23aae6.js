@@ -1,0 +1,1 @@
+import{Q as a}from"./QPage.0fe4b7ae.js";import{a1 as e,a0 as s,a2 as t,a3 as o,a4 as r,af as c}from"./index.c96169ea.js";const n=s({}),p=c("h5",{class:"q-mt-none"},"help",-1);function _(f,l,d,i,m,h){return t(),o(a,{class:"q-pa-lg"},{default:r(()=>[p]),_:1})}var $=e(n,[["render",_]]);export{$ as default};
